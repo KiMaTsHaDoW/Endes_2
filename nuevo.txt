@@ -1,1 +1,1 @@
-Cambiar de nuevo
+Vamos a buscar conflictos editando el archivo en local y en remoto
